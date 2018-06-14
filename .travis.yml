@@ -1,4 +1,4 @@
-language: bash
+language: generic
 script:
- - echo hello
-- bash -e ./kadai4.sh - ./kadai4.sh
+echo hello
+
